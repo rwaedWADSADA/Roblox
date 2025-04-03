@@ -1,3 +1,5 @@
+-- i didn't make this the owner of xeno did
+
 local fpscap = math.huge
 
 getgenv().setfpscap = function(cap)
