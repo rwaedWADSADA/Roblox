@@ -1,3 +1,6 @@
+-- original: https://raw.githubusercontent.com/mainstreamed/amongus-hook/refs/heads/main/drawingfix.lua
+-- i didn't make this mainstreamed did
+
 local isScriptable = clonefunction(isscriptable);
 local setScriptable = clonefunction(setscriptable);
 local setScriptableCache = {};
